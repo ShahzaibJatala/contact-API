@@ -20,13 +20,3 @@ Database: MongoDB with Mongoose ODM
 Security: JWT (JSON Web Tokens) & BcryptJS
 
 Development: Nodemon, Dotenv
-
-📂 Project Structure
-Plaintext
-contact-API/
-├── controllers/    # Business logic for Users and Contacts
-├── middleware/     # JWT Authentication & Error handlers
-├── models/         # Database schemas (User & Contact)
-├── routes/         # API Route definitions
-├── server.js       # Main entry point
-└── package.json    # Dependencies and scripts
